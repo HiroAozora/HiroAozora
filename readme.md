@@ -20,3 +20,11 @@ hi all, aku hiro, masih belajar ngoding.
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HiroAozora/HiroAozora/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HiroAozora/HiroAozora/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HiroAozora/HiroAozora/output/pacman-contribution-graph.svg">
+</picture>
+
+###
